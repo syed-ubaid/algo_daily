@@ -15,6 +15,8 @@ This repository tracks my journey of solving 1 algorithm every day. Each solutio
 | **Bubble Sort** | Easy | [Link](./bubblesort.py) | ✅ |
 | **FizzBuzz** | Easy | [Link](./fizzbuzz.py) | ✅ |
 | **Longest Substring** | Medium | [Link](./longest_substring.py) | ✅ |
+| **Binary Search** | Easy | [Link](./binary_search.py) | ✅ |
+| **A* Search** | Hard | [Link](./astar_search.py) | ✅ |
 
 ## 🛠️ Usage
 
